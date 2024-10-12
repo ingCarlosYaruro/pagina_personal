@@ -27,7 +27,7 @@ h1, h2 {
     margin-bottom: 10px;
 }
 
-.personal-info, .experience, .education, .skills {
+.personal-info, .experience, .education, .skills, .sect-busqueda {
     padding-left: 20px;
 }
 
@@ -47,3 +47,14 @@ ul {
 ul li {
     margin-bottom: 10px;
 }
+
+.negrita-size {
+    font-size: medium;
+    color: green
+} 
+
+.negrita-no-found {
+    font-size: medium;
+    color: white;
+    background-color: red
+} 
