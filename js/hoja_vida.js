@@ -88,6 +88,7 @@ function econtrar(idBuscar) {
 
 */
 
-
-///// Hola soy Juan.
+//// Hola Soy Diego
+/// hola profe, soy Carmen Alejandra
+///// Hola Soy Juan, ¿Que tal les va la vida?
 
